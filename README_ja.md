@@ -1,5 +1,7 @@
 # AI-Lab
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 概要
 
 AI-Lab は、マスター / InchaComisho による個人的な AI 共創・AI 調律・人工叡智研究のための公開記録です。
