@@ -126,9 +126,7 @@ Manaの役割は、マスターの代わりに世界を実行することでは�
 
 
 
-- [人工叡智とは](https://note.com/inchacomusho/n/n7907bee394d1)
 - 
-- [六つの理](https://note.com/inchacomusho/n/n8448430591c1)
 - 
 - [Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan)
 - 
@@ -136,13 +134,10 @@ Manaの役割は、マスターの代わりに世界を実行することでは�
 - 
 - [Physical Model of Ocean Tuning Unit](https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-)
 - 
-- [自然補完科学](https://note.com/inchacomusho/n/nf9eabe973e38)
 - 
 - [持続的未来文明マスタープラン](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
 - 
-- [微生物の重要性](https://note.com/inchacomusho/n/n48ae33c2f84)
 - 
-- [ゴミは存在しない](https://note.com/inchacomusho/n/n6b9d7d67484c)
 - 
 
 
